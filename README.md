@@ -8,4 +8,5 @@ FEATURES :
 - Live location information.
 - Temperature history.
 - Voice level history.
+- Warning system.
 
