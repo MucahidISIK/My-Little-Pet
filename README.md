@@ -1,6 +1,6 @@
 # MyLittlePet
 
-Smart Collar
+A smart collar design with a mobile app
 
 FEATURES :
 - Live temperature information.
